@@ -19,10 +19,14 @@ Dataset used is day.csv
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+• Fall season has more bike shared compared to other seasons 
+• With respect to months Bike sharing shows an increasing trend in the first half and 
+decreasing towards the end of the year due to approaching Holiday season 
+• Clear weather has attracted more sharing of bikes. 
+• Bike sharing increases from mid of week till Saturday. 
+• Sunday sees the lowest number of Bike shares as it is holiday 
+• Bike share is less in holidays 
+• 2019 has seen a boom increase in bike share indicating the Boombikes business growth 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
